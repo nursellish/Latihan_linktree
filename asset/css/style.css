@@ -9,7 +9,7 @@ html {
 
 
 .container {
-    max-width: 500px;
+    min-height: 100vh;
     margin : 0 auto;
     background: red;
     height: 100vh;
